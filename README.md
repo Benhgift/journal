@@ -5,5 +5,5 @@ just a log of what I'm up to
 * Studied AWS Cloudfront hosting and how it works with multi tenancy
 * Rebuilt my keyboard config to solve rshift and space misfires
 
-2025-95-10
+2025-05-19
 * Studied AWS Config for managing resource rules
