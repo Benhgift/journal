@@ -1,6 +1,9 @@
 # journal
 just a log of what I'm up to
 
+2025-05-21
+* Studied AWS CloudFormation and deployed a stack, curious about importing from existing resources 
+
 2025-05-20
 * Studied AWS Lambda, found out they have inbuilt throttling
 
