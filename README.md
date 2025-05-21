@@ -7,3 +7,6 @@ just a log of what I'm up to
 
 2025-05-19
 * Studied AWS Config for managing resource rules
+
+2025-05-20
+* Studied AWS Lambda, found out they have inbuilt throttling 
