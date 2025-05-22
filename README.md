@@ -1,6 +1,9 @@
 # journal
 just a log of what I'm up to
 
+2025-05-22
+* Studied AWS API Gateway with lambda endpoints
+
 2025-05-21
 * Studied AWS CloudFormation and deployed a stack, curious about importing from existing resources 
 
