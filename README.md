@@ -1,6 +1,9 @@
 # journal
 just a log of what I'm up to
 
+2025-05-27
+* Revamped keybindings in zmk repo, now keyboard is much more usable
+
 2025-05-22
 * Studied AWS API Gateway with lambda endpoints
 
