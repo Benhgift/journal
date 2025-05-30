@@ -1,6 +1,10 @@
 # journal
 just a log of what I'm up to
 
+2025 05 29 Thu
+* applied to geiko and worked on resume
+* fixed ssh keys on github
+
 2025-05-27
 * Revamped keybindings in zmk repo, now keyboard is much more usable
 
