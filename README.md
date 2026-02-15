@@ -1,6 +1,12 @@
 # journal
 just a log of what I'm up to
 
+2026 02 14 Sat
+* I've been working at a new job for the last several months.
+* I'm about to begin classes at WGU to finish my CS degree.
+
+---
+
 2025 06 03 Tue
 * Finished the solutions architect course on aws cloud quest. Overall the labs were great, I learned a lot and I'd recommend it. The final one using aws cdk was the hardest. https://www.credly.com/badges/6847f065-5e34-44b0-9614-d8e333dbd9be 
 * Going to tweak my keyboard again and then work on my website
